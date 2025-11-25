@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow - Smart Money Manager",
+  "description": "A comprehensive React-based financial tracking application featuring income/expense logging, interactive data visualization with Recharts, and AI-powered financial advice using Gemini.",
+  "requestFramePermissions": []
+}
